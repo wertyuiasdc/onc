@@ -1,0 +1,19 @@
+# Core Data & API
+requests>=2.31.0
+tqdm>=4.66.0
+python-dotenv>=1.0.0
+
+# Azure Identity & Storage (Phase 1)
+azure-identity>=1.15.0
+azure-storage-file-datalake>=12.14.0
+azure-core>=1.29.0
+
+# Data Analysis & SQL (Phase 2)
+pandas>=2.1.0
+sqlalchemy>=2.0.0
+pyodbc>=5.0.0
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# AI & Safety (Phase 3)
+azure-ai-contentsafety>=1.0.0
