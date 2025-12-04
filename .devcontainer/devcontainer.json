@@ -18,6 +18,10 @@
             "openFiles": [
                 "README.md"
             ]
+        },
+        "settings": {
+            "python.terminal.useEnvFile": true,
+            "python.defaultInterpreterPath": "/usr/local/bin/python"
         }
   },
 
