@@ -1,5 +1,9 @@
-# 🏥 Oncology Clinical Intelligence Agent (Backend Demo)
+# 🏥 Oncology Clinical Intelligence Agent Backend (Demo/Prototype)
 ![Clinical Intelligence Agent Backend](img/CIAB_banner.png)
+
+> [!IMPORTANT]
+> **🛑 STOP & READ:** Before running the ingestion pipeline, you must configure your `.env` file.  
+> 👉 **[Click here to read the full GUIDE.md](./GUIDE.md)**
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/CarnegieJ/onc-clinical-intel-agent)
 

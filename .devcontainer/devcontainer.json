@@ -14,7 +14,13 @@
         "ms-vscode.azure-account",
         "ms-azuretools.vscode-azure-blobstorage" 
       ]
-    }
+    },
+        "codespaces": {
+            "openFiles": [
+                "GUIDE.md",
+                "README.md"
+            ]
+        }
   },
 
   // 2. The Setup Script
