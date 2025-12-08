@@ -66,8 +66,8 @@ In Data Engineering, best practice is the **Medallion Architecture**:
 ## ⚙️ Configuration & Setup
 
 ### **Prerequisites:**
-* **Azure** accoount
-* **Microsoft Frabric** workspace
+* **Azure** account
+* **Microsoft Fabric** workspace
 * **Python 3.10+**
 * **Visual Studio Code** (Jupyter notebooks)
 * **Azure CLI:** Run `az login` to authenticate.
