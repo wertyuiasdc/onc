@@ -28,7 +28,7 @@ Before we touch data, let's make sure our tools are sharp.
 **Goal:** We need to fetch raw oncology data from the public internet (cBioPortal) and land it securely in our Private Cloud (OneLake).
 
 1.  **Open the Notebook:**
-    👉 [**Click to Open `01_data_ingestion/1_ingestion_pipeline.ipynb`**](./01_data_ingestion/1_ingestion_pipeline.ipynb)
+    👉 [**Click to Open `data_ingestion/1_ingestion_pipeline.ipynb`**](./data_ingestion/1_ingestion_pipeline.ipynb)
 
 2.  **What to do:**
     * Read the "Concept Guides" in the Markdown cells.
@@ -51,7 +51,7 @@ Before we touch data, let's make sure our tools are sharp.
 **Goal:** Now that we have clean data, we must prove it is "Organic" (not artificially capped) before training AI on it.
 
 1.  **Open the Notebook:**
-    👉 [**Click to Open `02_backend_logic/2_data_analysis.ipynb`**](./02_backend_logic/2_data_analysis.ipynb)
+    👉 [**Click to Open `backend_logic/2_data_analysis.ipynb`**](./backend_logic/2_data_analysis.ipynb)
 
 2.  **What to do:**
     * Click **Run All**.
