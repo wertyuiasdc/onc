@@ -5,7 +5,7 @@ DESCRIPTION: In a terminal window project root folder, run: python -m unittest s
 """
 
 import unittest
-from .guardrails import ClinicalGuardrails
+from safety_middleware.guardrails import ClinicalGuardrails
 
 class TestClinicalGuardrails(unittest.TestCase):
     
