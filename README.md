@@ -91,3 +91,16 @@ To get started quickly, we provide a template for your environment variables.
     # Example Command (Terminal)
     cp .env.template .env
     ```
+
+## Developer tools
+To keep notebooks clean and diffs small, we use a pre-commit hook to strip outputs from Jupyter notebooks.
+
+Install pre-commit and enable the hooks locally:
+
+```bash
+pip install pre-commit
+pre-commit install
+```
+
+This repository includes a `.pre-commit-config.yaml` and `.gitattributes` that will automatically strip outputs from `.ipynb` files on commit.
+
